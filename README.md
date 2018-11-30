@@ -1,2 +1,2 @@
-# Wat2WasmSharp
-C# port of Wat2Wasm WebAssembly Converter
+# TomSwift
+a dialect of Swift

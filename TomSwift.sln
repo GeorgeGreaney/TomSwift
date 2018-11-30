@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wat2WasmSharp", "Wat2WasmSharp\Wat2WasmSharp.csproj", "{9D7B21EE-8919-4E7C-AE43-F0AC721F87A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomSwift", "TomSwift\TomSwift.csproj", "{9D7B21EE-8919-4E7C-AE43-F0AC721F87A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
 ﻿/* ----------------------------------------------------------------------------
-Wat2WasmSharp - a text to wasm converter
+TomSwift - a dialect of Swift
 Copyright (C) 2018  George E Greaney
 
 This program is free software; you can redistribute it and/or
@@ -22,7 +22,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Wat2WasmSharp
+namespace TomSwift
 {
     class Program
     {
